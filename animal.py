@@ -1,5 +1,8 @@
-import random
+# A program to simulate a river habitat with bears and fish, ver. 1
+# By Iryna Chervachidze
+# April 2019
 
+import random
 
 class Animal():
 
