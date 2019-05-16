@@ -1,3 +1,10 @@
+###############################
+# River Simulation ver.2
+# Simulation functions
+# By Iryna Chervachidze
+# May 5, 2019
+###############################
+
 import animal
 import random
 

@@ -1,3 +1,10 @@
+###############################
+# River Simulation ver.2
+# Animal Class
+# By Iryna Chervachidze
+# May 5, 2019
+###############################
+
 import random
 
 

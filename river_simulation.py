@@ -1,3 +1,9 @@
+###############################
+# River Simulation ver.2
+# Main program
+# By Iryna Chervachidze
+# May 5, 2019
+###############################
 
 import simulation_functions as sf
 import results
